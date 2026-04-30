@@ -1,2 +1,2 @@
-# ESDFusion
-This repository contains the software used in our Paper “SPRMamba: Surgical Phase Recognition for Endoscopic Submucosal Dissection with Mamba”
+# ESDFusion: a Unified Generative Diffusion Model for Simultaneous Phase Recognition and Long-Horizon Prediction in Endoscopic Submucosal Dissection
+This repository contains the software used in our Paper “ESDFusion: a Unified Generative Diffusion Model for Simultaneous Phase Recognition and Long-Horizon Prediction in Endoscopic Submucosal Dissection”
